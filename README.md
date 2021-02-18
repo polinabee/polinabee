@@ -1,6 +1,6 @@
 ### Hi, I'm Polina 👩🏻‍💻
 
-I'm a software and data engineer from San Francisco. In September 2020, I moved across the world to study Data Science at the Barcelona Graduate School of Economics. My professional focus is on building robust data pipelines, enabling effective analytics, and geospatial data systems. Previously, I worked at Zillow in the US.
+I'm a software and data engineer from San Francisco. In September 2020, I moved across the world to study Data Science at the Barcelona Graduate School of Economics. My professional focus is on building robust data pipelines, enabling effective analytics, and geospatial data systems. Before moving here, I worked at Zillow in the US.
 
 When I'm not at my computer you can find me dancing 💃 , standing on my hands 🤸🏻‍♀️, or drawing 🎨.
 
