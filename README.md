@@ -9,8 +9,8 @@ When I'm not at my computer you can find me dancing in the air 💃, looking at 
 Many of my notebooks and code snippets live [here](https://gist.github.com/polinabee)
 
 <a href="https://github.com/polinabee/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-one-phi-45.vercel.app/api?username=polinabee&show_icons=true&theme=transparent" />
+  <img width=40% height=200 align=center src="https://github-readme-stats-one-phi-45.vercel.app/api?username=polinabee&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/polinabee/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-one-phi-45.vercel.app/api/top-langs/?username=polinabee&layout=compact&hide=jupyter%20notebook&card_width=320" />
+  <img width=40% height=167 align=center src="https://github-readme-stats-one-phi-45.vercel.app/api/top-langs/?username=polinabee&layout=compact&hide=jupyter%20notebook" />
 </a>
