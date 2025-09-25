@@ -1,12 +1,12 @@
 ### Hi, I'm Polina 👩🏻‍💻
 
-I'm a software and data engineer from San Francisco currently living in ~~Barcelona~~ Paris. My professional focus is in the intersection of engineering and analytics, specifically when it comes to building robust data pipelines, tools for effective analytics, and geospatial data systems. 
+I'm a software engineer from San Francisco living in Paris. My professional focus is building tooling for data platforms, improving the developer experience, and when I have the opportunity, working with geospatial data systems.
 
 I've worked at several companies big and small, in and out of tech, in three countries.
 
 When I'm not at my computer you can find me dancing in the air 💃, looking at critters 🐸, or doing crafts 🎨.
 
-Many of my notebooks and code snippets live [here](https://gist.github.com/polinabee)
+Some of my notebooks and code snippets live [here](https://gist.github.com/polinabee)
 
 <!--<a href="https://github.com/polinabee/github-readme-stats">
  <img width=40% height=200 align=center src="https://github-readme-stats-one-phi-45.vercel.app/api?username=polinabee&show_icons=true&theme=transparent" />
